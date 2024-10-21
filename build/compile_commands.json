@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/franc/lab/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/binops.dir/binops.cpp.o -c /mnt/c/Users/franc/lab/binops.cpp",
+  "file": "/mnt/c/Users/franc/lab/binops.cpp"
+}
+]

@@ -1,0 +1,5 @@
+/mnt/c/Users/franc/lab/build/CMakeFiles/binops.dir
+/mnt/c/Users/franc/lab/build/CMakeFiles/package.dir
+/mnt/c/Users/franc/lab/build/CMakeFiles/package_source.dir
+/mnt/c/Users/franc/lab/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/franc/lab/build/CMakeFiles/rebuild_cache.dir
